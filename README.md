@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on a social media app for food, restaurants and recipes - Taim. 
 
-🎯 Goal: Contribute openly to Astroinformatics community and to help people with disabilities by developing technological tools.
+🎯 Goal: Contribute openly to Astroinformatics community and to help people with disabilities by developing technological solutions.
 
 📌 Scroll down to see my Pinned Repositories.
 
