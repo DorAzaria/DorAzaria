@@ -14,6 +14,8 @@
 
 💬 Linkedin: https://www.linkedin.com/in/Dor-Azaria/
 
+![](https://komarev.com/ghpvc/?username=dorazaria&style=flat-square)
+
 ### Languages and Tools:
 
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="30px" height="30px"></a>
@@ -27,8 +29,5 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552220.svg" width="30px" height="30px"></a>
 <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552224.svg" alt="Adobe XD" width="30px" height="30px"></a>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorAzaria&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DorAzaria&show_icons=true&hide=issues&theme=yeblu&line_height=24)
-
-![](https://komarev.com/ghpvc/?username=dorazaria&style=flat-square)
