@@ -15,7 +15,6 @@
 💬 Linkedin: https://www.linkedin.com/in/Dor-Azaria/
 
 ![](https://komarev.com/ghpvc/?username=dorazaria&style=flat-square)
-
 ### Languages and Tools:
 
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="30px" height="30px"></a>
