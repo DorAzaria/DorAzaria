@@ -1,5 +1,3 @@
-## Hi there, I'm Dor 👋
-
 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
 
 🌱 I'm currently learning Python and App development.
