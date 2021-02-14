@@ -9,24 +9,13 @@
 📌 Scroll down to see my Pinned Repositories.
 
 📫 How to reach me: DorAzaria@gmail.com
-
-💬 Linkedin: https://www.linkedin.com/in/Dor-Azaria/
+ 
+<a href="https://www.linkedin.com/in/Dor-Azaria/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Languages and Tools:
 
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="30px" height="30px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="30px" height="30px"></a>
-<a title="Android Studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/768px-Android_Studio_icon.svg.png" alt="Visual Studio Code" width="30px" height="30px"></a>
-<a title="Firebase"><img src="https://img.icons8.com/color/452/firebase.png" alt="Firebase" width="30px" height="30px"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="30px" height="30px"></a>
-<a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="30px" height="30px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="30px" height="30px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552220.svg" width="30px" height="30px"></a>
-<a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="https://www.flaticon.com/svg/static/icons/svg/552/552224.svg" alt="Adobe XD" width="30px" height="30px"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorAzaria&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DorAzaria&show_icons=true&hide=issues&theme=yeblu&line_height=24)
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 ![](https://komarev.com/ghpvc/?username=dorazaria&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=46644036)
