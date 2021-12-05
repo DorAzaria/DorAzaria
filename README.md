@@ -1,3 +1,5 @@
+<a href="https://dorazaria.github.io/"> <img src="https://github.com/DorAzaria/dorazaria.github.io/blob/main/assets/images/for_github_profile.png?raw=true"/> </a>
+
 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
 
 📌 Scroll down to see my Pinned Repositories.
